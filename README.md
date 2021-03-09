@@ -2,9 +2,10 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fboerncke&theme=dark" />
 
+<!--
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 view rawmarkdown_icon hosted with ❤ by GitHub
-
+-->
 
 <!--
 **fboerncke/fboerncke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can follow me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
@@ -31,4 +32,4 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/frank_boerncke
-[2]: https://www.linkedin.com/in/heinz-martin/
+[2]: https://www.linkedin.com/in/frankboerncke/
