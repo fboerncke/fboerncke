@@ -1,4 +1,4 @@
-### Hi there 👋
+### Frank Börncke
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fboerncke&theme=dark" />
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You can follow me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
+Follow me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
