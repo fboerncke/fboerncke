@@ -1,10 +1,33 @@
-### Frank Börncke
+## About me
 
 My name is Frank Börncke. I am a freelancer, located in the Munich area of Germany. 
 
 Visit me on [Twitter](https://twitter.com/frank_boerncke), [LinkedIn](https://www.linkedin.com/in/frankboerncke/), [XING](https://www.xing.com/profile/Frank_Boerncke/cv), [YouTube](https://www.youtube.com/channel/UCkoQ_GsodRPhExe3fXENT4w) or have a closer look at my [Blog](https://applicate.de/alexa/index.html) on [my Homepage](https://applicate.de/).
 
+## Technologies & Tools
+
+&nbsp;
+<img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Editor-Intellij IDEA-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Editor-Visual Studio Code-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Voice-Alexa-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Voice-Skill Development-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Voice-Echo-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Framework-Litexa-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Cloud-AWS Lambda-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Cloud-S3-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Tools-git-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Tools-gradle-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+&nbsp;
+
+
+
+## GitHub Repository Analysis
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fboerncke&theme=light&layout=compact" />
+
 
 
 <!--
@@ -12,9 +35,5 @@ Visit me on [Twitter](https://twitter.com/frank_boerncke), [LinkedIn](https://ww
 view rawmarkdown_icon hosted with ❤ by GitHub
 -->
 
-<!--
-**fboerncke/fboerncke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
 
 
