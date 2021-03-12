@@ -4,7 +4,7 @@ My name is Frank Börncke. I am a freelancer, located in the Munich area of Germ
 
 Visit me on [Twitter](https://twitter.com/frank_boerncke), [LinkedIn](https://www.linkedin.com/in/frankboerncke/), [XING](https://www.xing.com/profile/Frank_Boerncke/cv), [YouTube](https://www.youtube.com/channel/UCkoQ_GsodRPhExe3fXENT4w) or have a closer look at my [Blog](https://applicate.de/alexa/index.html) on [my Homepage](https://applicate.de/).
 
-## Technologies & Tools
+## Favourite Technologies, Languages & Tools
 
 &nbsp;
 <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logoColor=white&color=2bbc8a" /> 
@@ -16,11 +16,14 @@ Visit me on [Twitter](https://twitter.com/frank_boerncke), [LinkedIn](https://ww
 <img src="https://img.shields.io/badge/Voice-Alexa-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Voice-Skill Development-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Voice-Echo-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Framework-ask-sdk-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Framework-Litexa-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Framework-Express-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Cloud-AWS Lambda-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Cloud-S3-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Tools-git-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Tools-gradle-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Shell-bash-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 &nbsp;
 
 
