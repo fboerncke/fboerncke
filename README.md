@@ -1,3 +1,5 @@
+<img src  = "./awesomeThings_02.png" />
+
 ## About me
 
 My name is Frank Börncke. I am a freelancer, located in the Munich area of Germany. 
