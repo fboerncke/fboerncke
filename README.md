@@ -17,7 +17,7 @@ Visit me on [Twitter](https://twitter.com/frank_boerncke), [LinkedIn](https://ww
 <img src="https://img.shields.io/badge/Voice-Skill Development-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Voice-Echo-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Visuals-APL-informational?style=flat&logoColor=white&color=2bbc8a" /> 
-<img src="https://img.shields.io/badge/Framework-ask-sdk-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Framework-ask sdk-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Framework-Litexa-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Framework-Express-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Cloud-AWS Lambda-informational?style=flat&logoColor=white&color=2bbc8a" /> 
