@@ -27,6 +27,7 @@ Visit me on [Twitter](https://twitter.com/frank_boerncke), [LinkedIn](https://ww
 <img src="https://img.shields.io/badge/Framework-Express-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Cloud-AWS Lambda-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Cloud-S3-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Cloud-Dynamo DB-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Tools-git-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Tools-gradle-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Tools-APL Ninja-informational?style=flat&logoColor=white&color=2bbc8a" /> 
