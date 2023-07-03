@@ -24,6 +24,7 @@ Visit me on [Twitter](https://twitter.com/frank_boerncke), [LinkedIn](https://ww
 <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Framework-ask sdk-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Framework-Jovo-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Framework-Litexa-informational?style=flat&logoColor=white&color=2bbc8a" /> 
