@@ -9,18 +9,21 @@ Visit me on [Twitter](https://twitter.com/frank_boerncke), [LinkedIn](https://ww
 ## Favourite Technologies, Languages & Tools
 
 &nbsp;
-<img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logoColor=white&color=2bbc8a" /> 
-<img src="https://img.shields.io/badge/Editor-Intellij IDEA-informational?style=flat&logoColor=white&color=2bbc8a" /> 
-<img src="https://img.shields.io/badge/Editor-Visual Studio Code-informational?style=flat&logoColor=white&color=2bbc8a" /> 
-<img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logoColor=white&color=2bbc8a" /> 
-<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logoColor=white&color=2bbc8a" /> 
-<img src="https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Voice-Alexa-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Voice-Skill Development-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Voice-Google Assistant-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Voice-Google Assistant Actions Development-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Voice-Echo-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Visuals-APL-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/AI-OpenAI-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/AI-ChatGPT-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/AI-Prompt Engeneering-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/AI-GPT4All-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/AI-AutoGPT-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Framework-ask sdk-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Framework-Jovo-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Framework-Litexa-informational?style=flat&logoColor=white&color=2bbc8a" /> 
@@ -28,6 +31,9 @@ Visit me on [Twitter](https://twitter.com/frank_boerncke), [LinkedIn](https://ww
 <img src="https://img.shields.io/badge/Cloud-AWS Lambda-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Cloud-S3-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Cloud-Dynamo DB-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Editor-Intellij IDEA-informational?style=flat&logoColor=white&color=2bbc8a" /> 
+<img src="https://img.shields.io/badge/Editor-Visual Studio Code-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Tools-git-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Tools-gradle-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Tools-APL Ninja-informational?style=flat&logoColor=white&color=2bbc8a" /> 
