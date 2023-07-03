@@ -1,4 +1,4 @@
-<img src  = "./awesomeThings_02.png" />
+<img src  = "./awesome-things-banner.png" />
 
 ## About me
 
