@@ -8,7 +8,6 @@ Visit me on [Twitter](https://twitter.com/frank_boerncke), [LinkedIn](https://ww
 
 ## Favourite Technologies, Languages & Tools
 
-&nbsp;
 <img src="https://img.shields.io/badge/Voice-Alexa-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Voice-Skill Development-informational?style=flat&logoColor=white&color=2bbc8a" /> 
 <img src="https://img.shields.io/badge/Voice-Google Assistant-informational?style=flat&logoColor=white&color=2bbc8a" /> 
