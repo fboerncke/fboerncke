@@ -47,6 +47,40 @@ Freelance Developer based in Munich, Germany. Building AI prototypes and automat
 | **JSON Formatter** | Online JSON pretty printer | [Web App](https://jsonformatter.applicate.de) |
 | **Spintax Exploder** | Expand Spintax expressions to all permutations | [Web App](https://spintax.applicate.de) |
 
+## Media & Community
+
+### Press
+
+| Publication | Topic | Link |
+|-------------|-------|------|
+| **Süddeutsche Zeitung** | Private Prompts — Datenschutz bei KI-Nutzung | [Artikel](https://www.sueddeutsche.de/wirtschaft/datenschutz-ki-chat-gpt-deep-seek-li.3208619) |
+| **PC Welt** | Private Prompts: Nutzen Sie KI-Tools ohne Preisgabe Ihrer Daten | [Artikel](https://www.pcwelt.de/article/2801253/private-prompts-nutzen-sie-ki-tools-ohne-preisgabe-ihrer-daten.html) |
+| **PC Welt** | Private Daten vor KI-Nutzung schützen – so geht's | [Artikel](https://www.pcwelt.de/article/2906048/private-daten-vor-ki-nutzung-schuetzen-so-gehts.html) |
+| **golem.de** | Datenschutz vs. KI: Private Prompts schützt vertrauliche Daten | [Artikel](https://www.golem.de/news/datenschutz-vs-ki-private-prompts-schuetzt-vertrauliche-daten-beim-prompten-2504-195251.html) |
+| **Zahnärztliche Mitteilungen (zm)** | Private Prompts | [PDF (S. 73)](https://www.zm-online.de/fileadmin/user_upload/ZM_2025_08_online_master.pdf) |
+| **Arbeitsgemeinschaft Diabetologie Baden-Würtemberg e.V. (ADBW)** | So schützen Sie persönliche Daten bei der Erstellung von Prompts | [Artikel](https://adbw.de/news/so-schuetzen-sie-persoenliche-daten-bei-der-erstellung-von-prompts) |
+| **s3nnet.de** | About: Private Prompts | [Artikel](https://s3nnet.de/about-private-prompts/) |
+| **Smarthome Assistant** | Widget-Alternative für Echo Show: Alexa Skill "Mein Dashboard" | [Artikel](https://www.smarthomeassistent.de/widget-alternative-fuer-echo-show-alexa-skill-mein-dashboard/) |
+
+### Podcasts
+
+| Podcast | Language | Topic | Links |
+|---------|----------|-------|-------|
+| **DLF "KI Verstehen"** | 🇩🇪 | Warum man ChatGPT nicht alles erzählen sollte | [Episode](https://www.deutschlandfunk.de/ki-privatsphaere-datenschutz-chatgpt-100.html) · [Transkription](https://www.boerncke.de/podcast/transkription-podcast-frank-b%C3%B6rncke-public-interest-podcast.html) |
+| **t3n MeisterPrompter** | 🇩🇪 | Penibler Datenschutz — Private Prompts vorgestellt (DMEXCO 2025) | [Episode](https://t3n-meisterprompter.podigee.io/36-datenschutz-ki-anwendung) |
+| **Public Interest Podcast** (Prototype Fund) | 🇩🇪 | Freiberuflichkeit und Open-Source-Entwicklung | [Episode](https://public-interest-podcast.podigee.io/34-pips4e5) · [Transkription](https://www.boerncke.de/podcast/transkription-podcast-frank-b%C3%B6rncke-public-interest-podcast.html) |
+| **beyond touch** (Voice Tech Talk) | 🇩🇪 | Voice, Alexa, APL, Multimodalität und APL Ninja | [Website](https://www.beyond-touch.de/) · [Transkription](https://www.boerncke.de/podcast/transkription-podcast-frank-b%C3%B6rncke-beyond-touch.html) |
+| **Between Two Beans** | 🇺🇸 | Alexa Skills und Developer Spotlight | [Episode](https://anchor.fm/between-two-beans/episodes/Between-Two-Beans-Ep--23-Understanding-Images-and-Developer-Spotlight-e1k97gq) · [Transkription](https://www.boerncke.de/podcast/transkription-podcast-frank-b%C3%B6rncke-between-two-beans.html) |
+
+### Recognition & Funding
+
+- 🏛️ **Civic Coding ‒ Innovationsnetz KI für das Gemeinwohl“**[Private Prompts 2.0](https://www.civic-coding.de/angebote/veranstaltungen/civic-coding-pitch-und-connect-2025) (2025/2026)
+- 🏛️ **BMBF / Prototype Fund** — [Private Prompts](https://prototypefund.de/projects/private-prompts) (2024–2025)
+- 🏛️ **BMBF / Prototype Fund** — [Voice-QL](https://prototypefund.de/project/voice-ql-datentabellen-mit-gesprochener-sprache-barrierefrei-erkunden/) (2022–2023)
+- 🥈 2nd Place — [Telekom Hackathon "Remote Rhapsody"](https://remote-rhapsody.hubraum.com/) with "Virtual Help Desk" (2020)
+- 👑 [Jovo](https://www.jovo.tech/) Community Member of the Month (×2)
+- 📝 Contributor to [APL Ninja](https://apl,ninja/FrankBoerncke) — Alexa Presentation Language resources
+
 ## Technologies, Languages & Tools
 
 &nbsp;<img alt="AI LLMs" src="https://img.shields.io/badge/AI-LLMs-informational?style=flat&logoColor=white&color=2bbc8a" />
